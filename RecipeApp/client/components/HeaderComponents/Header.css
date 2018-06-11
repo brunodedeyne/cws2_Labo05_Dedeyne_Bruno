@@ -1,0 +1,11 @@
+.header {
+    background-color: white;
+    height:  4rem;
+}
+
+.header__Title {
+    font-size: 35px;
+    margin-left: 2rem;
+    float: left;
+    margin-top: 8px;
+}

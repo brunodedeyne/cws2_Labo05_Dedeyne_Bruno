@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: URL('assets/Fonts/CenturyGothic.ttf') format('ttf');
+  }
+  
+  html {
+    background-color: #dcdcdc ;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: "Century Gothic";
+  }
