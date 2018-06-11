@@ -1,0 +1,24 @@
+.div__Sidebar {
+    margin-top: 64px;
+    width: 14rem;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background-color:#293541;
+}
+
+h1 {
+    color: white;
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+.filter {
+    padding-left: 10px;
+    color: white
+}
+
