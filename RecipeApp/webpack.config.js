@@ -11,8 +11,9 @@ const HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
 module.exports = {
   entry: './client/index.js',
   output: {
-    path: path.resolve('dist'),
-    filename: 'index_bundle.js'
+    // path: path.resolve('dist'),
+    // filename: 'index_bundle.js'
+    publicPath: "/cws2_Labo05_Dedeyne_Bruno/",
   },
   module: {
     rules: [
