@@ -6,4 +6,4 @@ script:
 install:
  — npm install -g firebase-tools
 after_success:
- — firebase deploy — project recipeapp-8f558 — token 1/v_v8MoEHzh_BkET_Pl2hqnoZKuL95KEEB3ChnRz5Y5kpRA_R1dCwCNH9pXPeapEs
+ — firebase deploy — project recipeapp-8f558 — token $FIREBASE_TOKEN.
